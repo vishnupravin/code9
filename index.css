@@ -54,9 +54,11 @@ a:hover::before {
 
 
 
-/* .bottom-logo {
-  margin-top: -120px;
-} */
+ .bottom-logo {
+  position: absolute;
+  margin-top: -180px;
+  margin-left: 60px;
+} 
 .bottom-logo ul li {
   display: inline-block;
   margin: 30px 40px;
